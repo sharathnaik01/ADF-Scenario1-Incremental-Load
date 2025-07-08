@@ -31,13 +31,13 @@ ADF-Scenario1-Incremental-Load/
 │
 ├── datasets/
 │   └── your-dataset-name.json
-│
+
 ├── linkedServices/
 │   └── your-linkedservice-name.json
-│
+
 ├── pipelines/
 │   └── ADF-Scenario1-Incremental-Load.json
-│
+
 ├── output.png
 └── README.md
 
