@@ -30,16 +30,17 @@ This pipeline uses ADF activities such as:
 ADF-Scenario1-Incremental-Load/
 │
 ├── datasets/
-│   └── your-dataset-files.json
+│   └── your-dataset-name.json
 │
 ├── linkedServices/
-│   └── your-linked-service-files.json
+│   └── your-linkedservice-name.json
 │
 ├── pipelines/
 │   └── ADF-Scenario1-Incremental-Load.json
 │
 ├── output.png
 └── README.md
+
 
 ---
 
