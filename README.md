@@ -89,8 +89,7 @@ This pipeline is especially useful for:
 
 **Sharath Naik**  
 Data Engineer | Cloud & Big Data Enthusiast  | cloud Support Engineer
-📫 [LinkedIn]([https://www.linkedin.com/in/sharath-naik](https://www.linkedin.com/in/sharathnaikbc/
-))
+📫 [LinkedIn]([https://www.linkedin.com/in/sharath-naik](https://www.linkedin.com/in/sharathnaikbc/)
 
 ---
 
