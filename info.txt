@@ -1,0 +1,6 @@
+selected resource name:		incremental load
+selected resource type:		pipeline
+factory name:			newonedatafactorymy
+factory location:		eastus
+subscription id:		290b360b-8c29-40fa-97ca-5faff73daa09
+time of download (UTC):		Tue, 08 Jul 2025 10:55:22 GMT
