@@ -27,6 +27,19 @@ This pipeline uses ADF activities such as:
 ---
 
 ## 🗂 Folder Structure
+ADF-Scenario1-Incremental-Load/
+│
+├── datasets/
+│   └── your-dataset-files.json
+│
+├── linkedServices/
+│   └── your-linked-service-files.json
+│
+├── pipelines/
+│   └── ADF-Scenario1-Incremental-Load.json
+│
+├── output.png
+└── README.md
 
 ---
 
