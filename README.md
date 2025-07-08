@@ -70,6 +70,7 @@ Below is the execution output of the **Incremental Load pipeline** in Azure Data
 
 ![ADF Pipeline Output](https://github.com/your-username/ADF-Scenario1-Incremental-Load/blob/main/output.png?raw=true)
 
+
 > 🔁 Replace the above link with your actual image URL after uploading `output.png` to your repo.
 
 ---
