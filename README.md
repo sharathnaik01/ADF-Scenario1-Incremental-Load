@@ -71,8 +71,9 @@ Below is the execution output of the **Incremental Load pipeline** in Azure Data
 ### 📸 Output Snapshot
 
 Below is the execution output of the **Incremental Load pipeline** in Azure Data Factory:
-
-![ADF Pipeline Output](https://github.com/sharath-naik/ADF-Scenario1-Incremental-Load/blob/main/pipeline%20image.jpg?raw=true)
+![Output](https://github.com/user-attachments/assets/126cc01a-e940-4d39-ac5a-9bce2bf11506)
+om/sharath-naik/ADF-Scenario1-Incremental-Load/blob/main/pipeline%20image.jpg?raw=true)
+![pieline image](https://github.com/user-attachments/assets/a77d5b3d-0096-4a3f-927d-b1b9d8d26084)
 
 
 ## 📈 Use Case
